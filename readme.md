@@ -1,4 +1,4 @@
-# Geog 495, Lab 4: Asynchronous GeoJSON Data Loading and Visualization
+# Geog 495, Lab 4: Interactive Web Mapping
 
 Map of Washington Counties Number of Fully Vaccinated Population (per 10,000 people)
 
